@@ -73,3 +73,6 @@ end
 
 gem "graphql", "~> 2.0"
 gem "graphiql-rails", group: :development
+
+# Provides an interface between the Rails application and any dependencies provided from the frontend by Webpack.
+gem 'webpacker'
