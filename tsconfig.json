@@ -1,3 +1,4 @@
+// all the configuration for Typescript
 {
   "compilerOptions": {
     "declaration": false,
